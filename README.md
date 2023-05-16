@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nicholas Ikiroma
 - 👀 I’m interested in creating software for the future
-- 🌱 I’m currently learning C and Javascript
 - 💞️ I’m looking to collaborate on exciting software projects and writing technical articles 
 - 📫 Send an email to nicholasikiroma@gmail.com to connect.
 
